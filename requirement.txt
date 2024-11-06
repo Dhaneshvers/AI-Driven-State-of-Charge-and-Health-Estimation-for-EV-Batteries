@@ -1,4 +1,5 @@
 streamlit
-tensorflow
+tensorflow-cpu==2.9.1  # This version is lighter and often works better on cloud
 numpy
 scikit-learn
+
